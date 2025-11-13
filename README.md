@@ -1,9 +1,9 @@
 ![lyon2 geonum](https://perso.liris.cnrs.fr/lmoncla/GEONUM/fig/logos.png)
 
-# Master GEONUM - 2A3 - Gestion et traitement des données spatio-temporelles
+# Master GEONUM - 2F2 - Gestion et traitement des données spatio-temporelles
 ***
 
-Ce dépôt git contient les fichiers pour le cours "2A3 - Gestion et traitement des données spatio-temporelles" du Master [GEONUM](https://mastergeonum.org/programme/).
+Ce dépôt git contient les fichiers pour le cours "2F2 - Gestion et traitement des données spatio-temporelles" du Master [GEONUM](https://mastergeonum.org/programme/).
 
 
 L'objectif de ce tutoriel est d'appréhender la problématique d'analyse de données spatio-temporelles grâce à l'utilisation de librairies Python.
@@ -52,16 +52,16 @@ git clone https://github.com/ludovicmoncla/master-geonum-tutorials.git
 
 ### 2.2 Configurer l'environnement avec toutes les dépendances
 
-* Créez un nouvel environnement appelé `geonum-velov-py311`
+* Créez un nouvel environnement appelé `geonum-velov-py313`
 
 ```bash
-conda create -n geonum-velov-py311 python=3.11
+conda create -n geonum-velov-py313 python=3.13
 ```
 
 * Activez l'environnement
 
 ```bash
-conda activate geonum-velov-py311
+conda activate geonum-velov-py313
 ```
 
 * Installer le paquet fiona avec `conda` (cela permet d'éviter un problème lors de l'installation de geopandas avec `pip`)
