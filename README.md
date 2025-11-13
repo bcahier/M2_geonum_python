@@ -5,6 +5,7 @@
 
 Ce dépôt git contient les fichiers pour le cours "2F2 - Gestion et traitement des données spatio-temporelles" du Master [GEONUM](https://mastergeonum.org/programme/).
 
+Ce TP a été réalisé par Ludovic MONCLA (CNRS) et amélioré par Bastien CAHIER
 
 L'objectif de ce tutoriel est d'appréhender la problématique d'analyse de données spatio-temporelles grâce à l'utilisation de librairies Python.
 Pour cela nous allons travailler sur un cas d'étude visant la visualisation et le traitement des données de disponibilités des stations Vélo'v de la Métropole de Lyon. 
