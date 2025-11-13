@@ -11,12 +11,6 @@ Pour cela nous allons travailler sur un cas d'étude visant la visualisation et 
 
 **Information** Pour ceux qui ont des difficultés à installer un environnement python sur leur ordinateur, vous pouvez simplement executer les notebooks (`.ipynb`) à distance avec [Google Colab](http://colab.research.google.com) (*Compte Google requis*).
 
-*******
-Notebooks :
- 1. [Exploration et manipulation de données en Python](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/01.velov-data-exploration.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/01.velov-data-exploration.ipynb)
- 2. [Analyse et visualisation de données spatio-temporelles](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb)
- 3. [Un peu d'intelligence artificielle](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb)
-
 
 *******
 Cheat Sheets :
