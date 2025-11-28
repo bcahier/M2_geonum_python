@@ -1,0 +1,9 @@
+color_scale_range = [df_tmp['departure30min'].min(), df_tmp['departure30min'].max()]
+
+fig = px.scatter_mapbox(df_tmp, lat="latitude", lon="longitude", color="departure30min",
+                     hover_name="id_velov", size="departure30min",
+                     center={'lat':Lyon[0], 'lon':Lyon[1]}, zoom=11,
+                     animation_frame="time", mapbox_style="carto-positron",
+                     range_color=color_scale_range)
+fig.update_layout(margin={"r":0,"l":0,"b":0})
+fig.show()
